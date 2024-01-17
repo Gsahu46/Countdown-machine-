@@ -35,4 +35,11 @@
     height: 110px;
     border: 1px yellow solid;
     margin: 10px auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+input{
+    display: block;
 }
