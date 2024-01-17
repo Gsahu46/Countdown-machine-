@@ -32,14 +32,18 @@
 
 .col{
     width: 1000px;
-    height: 110px;
-    border: 1px yellow solid;
+    color: aliceblue;
     margin: 10px auto;
     display: flex;
-    text-align: center;
     justify-content: center;
 }
 
+.col div{
+    width: 250px;
+    text-align: center;
+}
+
 input{
-    display: block;
+    width: 60%;
+    height: 50px;
 }
