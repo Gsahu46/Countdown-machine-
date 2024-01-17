@@ -32,8 +32,9 @@
 
 .col{
     width: 1000px;
+    margin-top: 20px;
     color: aliceblue;
-    margin: 10px auto;
+    margin: 50px auto;
     display: flex;
     justify-content: center;
 }
@@ -44,6 +45,11 @@
 }
 
 input{
-    width: 60%;
+    width: 50%;
     height: 50px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-color: transparent;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 40px;
 }
